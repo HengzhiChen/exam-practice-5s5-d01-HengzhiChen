@@ -1,0 +1,25 @@
+PartI - Multiple Choice
+1-5
+6-10
+11-15
+16-20
+
+PartI
+Question 1
+
+
+
+
+
+
+Question 2
+part(a)
+public CoinCollectionTools(String country, int rows, int columns)
+
+
+part(b)
+public Coin[][] fillCoinBox(ArrayList<Coin> myCoins)
+
+
+part(c)
+public ArrayList<Coin> fillCoinTypeList()
